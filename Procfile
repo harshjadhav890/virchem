@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run chemlabs.py
+web: sh setup.sh && streamlit run virchem.py
